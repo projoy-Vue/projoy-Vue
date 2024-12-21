@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @projoy-Vue
-- 👀 I’m interested in webdevlopment
-- 🌱 I’m currently learning vue and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there! I'm Projoy-Vue 
 
-<!---
-projoy-Vue/projoy-Vue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! Here's a bit about me:
+
+## 🌟 About Me
+- 🎯 **Frontend Developer** | Passionate about creating modern, responsive, and interactive web experiences.
+- 💻 Skilled in **Vue.js**, **JavaScript**, **HTML/CSS**, and more.
+- 🚀 Open to collaboration on exciting and challenging projects.
+
+## 🌐 Connect With Me
+- 🌍 Personal Website: [Coming Soon!]
+- 💌 Email: [projoynaidu407@gmail.com](mailto:projoynaidu407@gmail.com)
+- 📸 LinkedIn: [Your LinkedIn Profile](#)
+
+## 🛠️ My Skills
+- **Languages**: JavaScript, HTML, CSS, SCSS
+- **Frameworks/Libraries**: Vue.js, React, GSAP
+- **Tools**: Git, GitHub, npm, VS Code
+
+## 📊 GitHub Stats
+![Projoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=projoy-Vue&show_icons=true&theme=radical)
+
+## ✨ Featured Projects
+- 🌟 [E-Commerce Website](https://github.com/projoy-Vue/e-commerce-webpage)
+- 🌟 [Course Website](https://github.com/projoy-Vue/Coursewebsite)
+
+---
+
+🎉 Thanks for visiting my profile! Let's build something amazing together!
+
