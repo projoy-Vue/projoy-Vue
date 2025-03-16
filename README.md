@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 🛠️ My Skills
 - **Languages**: JavaScript, HTML, CSS, SCSS
-- **Frameworks/Libraries**: Vue.js, React, GSAP, Tailwind
+- **Frameworks/Libraries**: Vue.js, GSAP, Tailwind
 - **Tools**: Git, GitHub, npm, VS Code, WordPress, WooCommerce, Shopify
 
 ## 📊 GitHub Stats
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## ✨ Featured Projects
 - 🌟 [E-Commerce Website](https://github.com/projoy-Vue/e-commerce-webpage) — A modern, responsive online store built with Vue.js & Tailwind CSS.
-- 🌟 [Course Website](https://github.com/projoy-Vue/Coursewebsite) — Interactive educational platform with smooth animations using GSAP.
+- 🌟 [Course Website](https://github.com/projoy-Vue/Coursewebsite) — Interactive educational platform with smooth GSAP animations.
 
 ---
 
