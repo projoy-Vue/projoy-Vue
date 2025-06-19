@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🚀 Open to collaboration on innovative and challenging projects.
 
 ## 🌐 Connect With Me
-- 🌍 Personal Website: [Join VueNexus](https://projoy-vue.github.io/joinVnexus/)
+- 🌍 Personal Website: [Join VueNexus](https://vuenexus.netlify.app)
 - 💌 Email: [vuenexus@gmail.com
 ](mailto:projoynaidu407@gmail.com)
 - 💼 LinkedIn: [VueNexus Profile](https://www.linkedin.com/in/vuenexus/)
